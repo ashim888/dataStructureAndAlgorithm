@@ -10,5 +10,5 @@
 
 • ___Morning Students email your assignments to shishirshrestha123@gmail.com___
 
-• ___Morning Students email your assignments to sigdelsagar31@gmail.com___
+• ___Day Students email your assignments to sigdelsagar31@gmail.com___
 
