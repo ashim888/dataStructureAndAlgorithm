@@ -8,7 +8,7 @@
 
 • ___Each Assignment now will have Missing Gap as a topic which you should research on internet or Text Books___
 
-• ___Morning Students email your assignemts to shishirshrestha123@gmail.com___
+• ___Morning Students email your assignments to shishirshrestha123@gmail.com___
 
-• ___Morning Students email your assignemts to sigdelsagar31@gmail.com___
+• ___Morning Students email your assignments to sigdelsagar31@gmail.com___
 
