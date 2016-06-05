@@ -16,14 +16,16 @@ printf("Enter new element: ");
 scanf("%d", &nel);
 
 for(i=n-1; i>=pos; i--) {
-	a[i+1] = a[i]; 
+	a[i+1] = a[i];
+	printf("a[%d]\t%d\n",i+1,a[i]);
 }
-	a[pos]=nel;
-	n++;
+a[pos]=nel;
 
-// printf("New array is:\n"); 
+n++;
+printf("\n\n");
+printf("New Array is:\n");
 for(i=0; i<n; i++){
-	printf("%d\t", a[i]); 
+	printf("a[%d]\t%d\t\n",i, a[i]); 
 }
 printf("\n");
 return 0;
