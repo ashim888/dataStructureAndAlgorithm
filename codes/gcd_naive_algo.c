@@ -10,7 +10,6 @@ int naiveGCD(int n1,int n2){
     return gcd;
 }
 
-
 int efficientGCD(int n1,int n2){
     // BLOCK TO BE FILLED
     /*
@@ -20,6 +19,7 @@ int efficientGCD(int n1,int n2){
     return efficientGCD(b,a’)
     */
 }
+
 
 int main()
 {

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int naiveFib(int n)
+unsigned int naiveFib(int n)
 {	
 	if(n==0){
 		return 0;
@@ -9,12 +9,21 @@ int naiveFib(int n)
 		return 1;
 	}
 	else{
-		return ( fib(n-1) + fib(n-2) );	
+		return ( naiveFib(n-1) + naiveFib(n-2) );	
 	}
 }
 
-int efficientFib(int n){
+unsigned int efficientFib(int n){
 	/*Write your code here*/
+	int a=0,b=1,f=1;
+	for (int i = 0; i < n; i++)
+	{
+		/* code */
+		f=a+b;
+		a=b;
+		b=f;
+	}
+	return f;
 }
 
 int main()
@@ -24,7 +33,8 @@ int main()
 	scanf("%d",&n);
 	for(i=0;i<=n;i++)
 	{
-		printf(" %d ",naiveFib(i));
+		// printf(" %d ",naiveFib(i));
+		printf(" %u ",efficientFib(i));
 	}
 	printf("\n");
 
