@@ -1,6 +1,6 @@
 //WAP a program to delete the element in an array.
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 int main()
 {	
     int m,n,i,j,k=0,count=0;
