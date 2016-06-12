@@ -4,9 +4,11 @@ int main() {
 	int i,x,y,a,b,r;
 	printf("Enter two numbers:");
 	scanf("%d%d",&x,&y);
-	a=x>y?x:y;
-	b=x+y-a;
-	for(i=1;i<=b-1;i++) {
+	a=x>y?x:y; //greater
+	b=x+y-a; // less
+	printf("a=%d\n",a );
+	printf("b=%d\n",b );
+	for(i=1;i<=a;i++) {
 			while(b!=0) {
 				r=a%b;
 				a=b;
