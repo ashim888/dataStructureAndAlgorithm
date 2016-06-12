@@ -15,15 +15,14 @@ unsigned int naiveFib(int n)
 
 unsigned int efficientFib(int n){
 	/*Write your code here*/
-	int a=0,b=1,f=1;
-	for (int i = 0; i < n; i++)
-	{
-		/* code */
-		f=a+b;
-		a=b;
-		b=f;
-	}
-	return f;
+	int arr[n];
+    arr[0]=0;
+    arr[1]=1;
+    for (int i = 2; i <=n; i++)
+    {
+        arr[i]=arr[i-1]+arr[i-2];
+    }
+    return arr[n];
 }
 
 int main()
