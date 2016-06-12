@@ -48,5 +48,10 @@
 }
 ```
 
+#####Answer some of the questions below
+```
+1. How Stack is different from Array?
+2. What do you mean by stack underflow and stack overflow? Explain with some diagramatic representation.
+```
 
 #####More coming soon.
