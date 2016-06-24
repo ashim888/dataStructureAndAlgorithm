@@ -6,7 +6,7 @@ Here we use only one stack called vstack(value stack).
 			read its corresponding value and push it into vstack 
 	1.2 if scanned symbol is operator then
 		– pop and place into op2 
-		– op and place into op1
+		– pop and place into op1
 		– compute result according to given operator and push result into vstack 
 2. pop and display which is required value of the given postfix expression
 3. return
