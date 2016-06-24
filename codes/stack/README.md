@@ -44,7 +44,7 @@ if top=MAXSIZE-1 then
 	print “Stack Overflow” and Exit 
 else
 	Set top=top+1 [Increase top by 1]
-	Set Stack[top]:= item [Inserts item in new top position]
+	Set Stack[top]= item [Inserts item in new top position]
 
 SAMPLE:	
 
@@ -56,6 +56,8 @@ void push() {
     {
           printf("Enter the element to be inserted");
           scanf("%d",&item); //reading an item
+          st.top=st.top+1;
+          st.items[st.top]=item;
        } 
    }
 ```
