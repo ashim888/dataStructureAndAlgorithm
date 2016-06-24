@@ -5,11 +5,29 @@ Here we use only one stack called vstack(value stack).
 	1.1 if scanned symbol is operand then
 			read its corresponding value and push it into vstack 
 	1.2 if scanned symbol is operator then
-		– pop and place into op2 – op and place into op1
+		– pop and place into op2 
+		– op and place into op1
 		– compute result according to given operator and push result into vstack 
 2. pop and display which is required value of the given postfix expression
 3. return
 ```
+####Example ABC+*CBA-+*
+___Suppose A=1, B=2, C=3___
+
+| Scan   |  value  | Op2  | Op1  |  Result  | vstack |
+|----|----|----|----|----|----|
+|  A |  1  |  ...  |  ...  |  ...  |  1  |
+|  B |  2  |  ...  |  ...  |  ...  |  1 2  |
+|  C |  3  |  ...  |  ...  |  ...  |  1 2 3 |
+|  + |  ...  |  3  |   2 |  5  |  1 5  |
+|  * |   ... | 5   |  1  |  5  |  5  |
+|  C |   3 |  ...  |  ...  | ...   | 5 3   |
+|  B |   2 | ...   |   ... | ...   |  5 3 2  |
+|  A |   1 |  ...  |  ...  |   ... |   5 3 2 1 |
+|  - |   ... |  1  |  2  |   1 | 5 3 1   |
+|  + |   ... |  1  |  3  |   4 |  5 4  |
+|  * |   ... |  4  |  5  |  20  |  20  |
+
 
 ####Algorithm to convert infix to postfix notation
 Let here two stacks opstack and poststack are used and otos & ptos represents the opstack top and poststack top respectively.
