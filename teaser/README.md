@@ -19,7 +19,9 @@ return 0;
 
 ```
 ```
-/* WAP to increase the value stored in a variable by passing a pointer to function and print the original and increased value*/
+/* WAP to increase the value stored in a variable by passing a pointer to function and 
+*  print the original and increased value 
+*/
 
 #include <stdio.h>
 
