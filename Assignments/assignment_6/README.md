@@ -2,6 +2,9 @@
 
 #####DEADLINE: JULY 17th Before MIDNIGHT
 =================
+
+___PLEASE DO FOLLOW THE ALGORITHM GIVEN IN SLIDES___
+
 ```
 1. Write a program to construct a queue using Linked List with comments on each line.
 2. Write a program to construct a Circular Linked List with comments on each line.
