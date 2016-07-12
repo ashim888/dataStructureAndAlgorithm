@@ -19,7 +19,7 @@ ___PLEASE DO FOLLOW THE ALGORITHM GIVEN IN SLIDES___
 ```
 • Everyone should have their assignment on their own git
 
-• After Completion Provide Your repository Link to your respective emails
+• After Completion Provide Your repository Link to respective emails below
 
 	• Morning Students email your assignments to shishirshrestha123@gmail.com
 
