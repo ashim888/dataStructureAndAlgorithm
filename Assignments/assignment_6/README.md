@@ -17,7 +17,7 @@ ___PLEASE DO FOLLOW THE ALGORITHM GIVEN IN SLIDES___
 
 #####NOTE
 ```
-• Everyone should have their assignment on their own git
+• Everyone should have their assignment on their own git repository named under folder name "assignment_6"
 
 • After Completion Provide Your repository Link to respective emails below
 
