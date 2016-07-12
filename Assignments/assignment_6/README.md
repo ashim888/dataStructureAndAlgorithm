@@ -14,3 +14,16 @@ ___PLEASE DO FOLLOW THE ALGORITHM GIVEN IN SLIDES___
 5. Write a program to implement Circular Doubly Linked List with comments on each line.
 ```
 
+
+#####NOTE
+```
+• ___Everyone should have their assignment on their own git___
+
+• ___After Completion Provide Your repository Link to your respective emails___
+
+	• ___Morning Students email your assignments to shishirshrestha123@gmail.com___
+
+	• ___Day Students email your assignments to kushal.sharma81@gmail.com___
+
+• ___If you want to practice Git commands go to http://learngitbranching.js.org/___
+```
