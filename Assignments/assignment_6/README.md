@@ -17,13 +17,13 @@ ___PLEASE DO FOLLOW THE ALGORITHM GIVEN IN SLIDES___
 
 #####NOTE
 ```
-• ___Everyone should have their assignment on their own git___
+• Everyone should have their assignment on their own git
 
-• ___After Completion Provide Your repository Link to your respective emails___
+• After Completion Provide Your repository Link to your respective emails
 
-	• ___Morning Students email your assignments to shishirshrestha123@gmail.com___
+	• Morning Students email your assignments to shishirshrestha123@gmail.com
 
-	• ___Day Students email your assignments to kushal.sharma81@gmail.com___
+	• Day Students email your assignments to kushal.sharma81@gmail.com
 
-• ___If you want to practice Git commands go to http://learngitbranching.js.org/___
+• If you want to practice Git commands go to http://learngitbranching.js.org/
 ```
