@@ -11,7 +11,7 @@ ___PLEASE DO FOLLOW THE ALGORITHM GIVEN IN SLIDES___
 3. Write a program to implement Stack as a circular list with comments on each line.
 4. Write a program to implement queue as a circular list with comments on each line.
 5. Write a program to implement Doubly Linked List with comments on each line.
-5. Write a program to implement Circular Doubly Linked List with comments on each line.
+6. Write a program to implement Circular Doubly Linked List with comments on each line.
 ```
 
 
