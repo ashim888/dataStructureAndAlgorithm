@@ -69,7 +69,8 @@ void pop()
 	else {
 		temp=top;
 		top=top->next;
-		printf("\ndeleted item is %d\t",temp->info); free(temp);
+		printf("\ndeleted item is %d\t",temp->info); 
+		free(temp);
 	} 
 }
 
