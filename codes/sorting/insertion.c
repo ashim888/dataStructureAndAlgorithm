@@ -15,7 +15,7 @@ int main()
     scanf("%d", &array[c]);
   }
  
-  for (c = 1 ; c <= n - 1; c++) {
+  for (c = 1 ; c <= n ; c++) {
     d = c;
  
     while ( d > 0 && array[d] < array[d-1]) {
