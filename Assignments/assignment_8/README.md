@@ -10,6 +10,12 @@ ___WRITE NOTES ON___
 3. Explain Partition strategies of Merge Sort and Quick Sort
 4. Why is merge sort preferred over quick sort for sorting linked lists
 5. Write down your analysis on Complexities of each algorithms we've discussed in the class.
+	1. Bubble Sort
+	2. Insertion Sort
+	3. Selection Sort
+	4. Merge Sort
+	5. Quick Sort
+	6. Binary Tree Sort
 ```
 
 ___MISSING GAP___
