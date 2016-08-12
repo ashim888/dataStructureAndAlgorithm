@@ -21,9 +21,6 @@ ___WRITE NOTES ON___
 ___MISSING GAP___
 ```
 1. Write something about binary tree sort and analyse the algorithm. WAP a program and submit repo link
-
-ONLY THIS NEEDS TO BE SUBMITTED ON GIT
-
 2. There will be some special treat to the one who finds some problem in the code and sends an immediate fix to the code.
 ```
 
