@@ -2,7 +2,7 @@
 int MyFunc(int counter) {
     // check this functions counter value from the stack (most recent push)
 
-    // if counter is 0, we've reached the terminating condition, return it
+    // if counter is 1, we've reached the terminating condition, return it
     if(counter == 1) {
         return counter;
     }
@@ -21,5 +21,5 @@ int MyFunc(int counter) {
 int main() {
     // Push 9 onto the stack, we don't care about the return value...
     MyFunc(9);
-    printf("\n");
+    // printf("\n");
 }
