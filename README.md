@@ -1,16 +1,20 @@
 Data Structures and Algorithms
 ========================================================
-        Data Structures and Algorithms (CSC-154)										Course no: CSC-154
-        Tribhuvan University															Full Marks: 60+20+20
- 		Credit hours: 3																	Pass Marks: 24+8+8
-        Nature of course: Theory (3 Hrs.) + Lab (3 Hrs.)
+		Data Structures and Algorithms (CSC-154)				Course no: CSC-154 							
+		Tribhuvan University							Full Marks: 60+20+20									
+		Credit hours: 3								Pass Marks: 24+8+8								
+		Nature of course: Theory (3 Hrs.) + Lab (3 Hrs.)
 
+		
+		
+		
 
 ___Course Synopsis:    Study of basic data structure vocabulary, the concept of an algorithm.___
 
 ___Goal: To provide the concept of data structure and its implementation using programming techniques.___
 
-###Course Contents:
+## Course Contents:
+
 | Unit   |  Hours  | Description   |
 |----|----|----|
 | 1 |  14 Hrs  |   1.1 Introduction to Data Structures:  Information and its meaning, Array in C++: The array as an ADT, Using one dimensional array, Two dimensional array, Multi dimensional array, Structure , Union, Classes in C++.<br><br>1.2 The Stack: Introduction, definition, primitive operation, the stack as an abstract data type, implementing the POP operation, testing for exceptional condition, implementing the PUSH operation. <br><br>1.3 The Infix, Postfix & Prefix: Introduction, evaluating the postfix operation, program to evaluate the postfix operation, limitation of program, converting from one to another. <br><br>1.4 Recursion: Introduction, factorial functions, multiplication of natural numbers, Fibonacci sequence, binary search, the tower of Hanoi problem, translation from prefix to postfix using recursion.<br><br> |
@@ -18,7 +22,7 @@ ___Goal: To provide the concept of data structure and its implementation using p
 
 
 
-####Laboratory works: 
+## Laboratory works: 
 ___This course requires a lot of programming practices. Each topic must be followed by a practical session. Some practical sessions include programming to:___
 ```
 • Write a code to multiply two matrixes and get the transpose of the third one.
@@ -32,11 +36,11 @@ ___This course requires a lot of programming practices. Each topic must be follo
 • Write a code to implement the queue.
 • Write a code to convert stack operation to queue operation.
 ````
-####Text Book:
+#### Text Book:
 ````
 Data Structure Using C & C++, Langsam Yedidyah, Augenstein Moshe J., Tennenbaum Aaron M., PHI
 ````
-####References:
+#### References:
 ````
 The Design and Analysis of Algorithm, Nitin Upadhyay, SK Kataria & Sons.
 ````
