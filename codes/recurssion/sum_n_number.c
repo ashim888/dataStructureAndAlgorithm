@@ -3,7 +3,7 @@
 int main()
 {
 	int n;
-	int sum_natural(int );
+	//int sum_natural(int );
 	printf("n = ");
 	scanf("%d",&n);
 	printf("Sum of first %d natural numbers = %d\n",n,sum_natural(n));
